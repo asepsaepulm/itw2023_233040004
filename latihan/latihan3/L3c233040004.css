@@ -1,0 +1,44 @@
+body {
+    background-color: aqua;
+    font-family: georgia;
+}
+
+h1 {
+    text-align: center;
+    font-family: Comic sans MS;
+    color: darkblue;
+    font-size: 60px;
+}
+
+h4 {
+    text-align: right;
+    font-style: oblique;
+}
+
+.a1 {
+    color: white;
+    font-variant-caps: petite-caps;
+}
+
+.a1:hover {
+    color: red;
+}
+
+.a2 {
+    font-weight: bold;
+}
+
+.a2:hover {
+    color: white;
+    background-color: blue;
+}
+
+.pertama {
+    color: orange;
+    text-align: center;
+}
+
+.kedua {
+    line-height: 1.9;
+    text-align: right;
+}
